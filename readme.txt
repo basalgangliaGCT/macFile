@@ -1,2 +1,2 @@
-The first day learning git.
-Git is easy.
+The first day learning git at website.
+Git is difficult.
